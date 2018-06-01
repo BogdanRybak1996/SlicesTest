@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SlicesTest</string>
+    <string name="bedroom_temperature_string">Bedroom temperature: %d\u00B0C</string>
+    <string name="kitchen_temperature_string">Kitchen temperature: %d\u00B0C</string>
+</resources>
